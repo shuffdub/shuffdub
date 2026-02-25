@@ -1,16 +1,15 @@
-## Hi there 👋
+*CS student passionate about clean code and continuous learning*
 
-<!--
-**shuffdub/shuffdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me
+- 🎓 Computer Science major & Data Science minor
+- ☕ Java enthusiast
+- 🎮 Gamer
+- 📚 Reader
+- 🌙 Astrology girl
+- 🌸 Currently teaching myself R
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Java · JavaFX · HTML & CSS · R & RStudio · IntelliJ IDEA · jGrasp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 Current Projects
+**Number Guesser** — a JavaFX desktop game where you guess a random number between 1–10  
